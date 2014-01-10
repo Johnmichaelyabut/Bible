@@ -1,0 +1,127 @@
+div#nav{
+  margin-left: 20px;
+  margin-top: 25px;
+  width: 1200px;
+  height: 615px;
+}
+div#nav1{
+  width: 350px;
+  height: 574px;
+  background-color: transparent;
+}
+div#categories{
+  height: 50px;
+  background-color: transparent;
+  border-color: black;
+}
+div#nav2{
+  width: 710px;
+  height: 574px;
+  background-color: transparent;
+
+}
+div#search{
+  height: 390px;
+  background-color: transparent;
+  border-color: black;
+}
+div#search1{
+  height: 50px;
+}
+div#head{
+  margin-top: 10px;
+  border-width: 2px;
+  border-color: black;
+}
+div#book{
+  margin-left: 50px;
+}
+h2#header{
+   font-family: serif;
+}
+textarea#verse_text{
+  height: 370;
+  width: 710px;
+  color: white;
+  margin-top: 20px;
+  border-color: black;
+  background-color: rgba(15,12,5,0.41);
+  font-size: 3em;
+  font-family: serif;
+  line-height: 45px;
+  padding: 60px;
+  text-align: center;
+  cursor: crosshair;
+  resize: none;
+}
+textarea#searchout{
+  height: 255px;
+  width: 310px;
+  margin-top: 20px;
+  background-color: transparent;
+  background-color: rgba(1,7,3,.16);
+  font-family: serif;
+  font-size: 17px;
+  padding-left: 15px;
+  cursor: crosshair;
+  resize: none;
+}
+select#books{
+  margin-left: 10px;
+  font-size: 1em;
+  height: 30px;
+  width: 140px;
+}
+select#chapters{
+  margin-left: 10px;
+  height: 30px;
+  width: 90px;
+}
+select#verses{
+  margin-left: 10px;
+  height: 30px;
+  width: 90px;
+}
+input#name{
+  height:45px;
+  width:270px;
+  border-color: black;
+}
+input#pagenum{
+  height: 40px;
+  width: 180px;
+  background-color: white;
+  background-color: rgba(1,7,3,.16);
+  font-family: serif;
+  font-size: 7px;
+  cursor: crosshair;
+}
+a#back{
+  margin-left: 180px;
+  font-size: 6em;
+  color: #333333;
+  outline-color: white;
+  text-decoration: none;
+
+}
+a#back2{
+  font-size: 6em;
+  color: #333333;
+  outline-color: white;
+  text-decoration: none;
+
+}
+a#next{
+  font-size: 6em;
+  color: #333333;
+  outline-color: white;
+  text-decoration: none;
+
+}
+a#next2{
+  font-size: 6em;
+  color: #333333;
+  outline-color: white;
+  text-decoration: none;
+
+}
